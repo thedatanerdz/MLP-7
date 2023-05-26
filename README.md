@@ -35,6 +35,7 @@ for class 0, The F1-score is 0.82 (82%)
 for class 1, predicted negative labels, 79% were actually negative. 
 for class 1, model correctly identified 93% of the negative samples. 
 for class 1, F1-score is 0.86 (86%), providing a balanced measure.
+
 Conclusion 
 Accuracy of 84.13%
 For class 0, the model achieves great  precision and  F1-score 
