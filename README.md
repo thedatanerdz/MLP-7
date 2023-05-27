@@ -4,7 +4,7 @@ Industry
 Finance | Stocks | Investment 
 
 Skills
-Python | NLP | Sentiment analysis | Data visualizations | Data manipulation | Deployment { Streamlit 
+Python | NLP | Sentiment analysis | Data visualizations | Data manipulation
 
 Problem statements
 Predict whether the stock market trend will have a net increase or decrease based on news headlines.
